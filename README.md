@@ -1,4 +1,4 @@
-# TSP Genetic Algorithm
+# 🐍TSP Genetic Algorithm
 
 This project utilizes a Genetic Algorithm (GA) to solve the Travelling Salesman Problem (TSP). The TSP involves finding the most efficient route that visits a set of cities exactly once and returns to the starting city, minimizing the total distance traveled..
 
