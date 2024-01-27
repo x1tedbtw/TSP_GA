@@ -8,7 +8,7 @@ This project utilizes a Genetic Algorithm (GA) to solve the Travelling Salesman 
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Usage](#usage)
-  - 
+    
 ## Features
 
 - **Genetic Algorithm:** Utilizes a genetic algorithm to evolve and optimize possible solutions for the Travelling Salesman Problem (TSP).
@@ -26,17 +26,17 @@ This project utilizes a Genetic Algorithm (GA) to solve the Travelling Salesman 
 1. Clone the repository:
 ```bash
 git clone https://github.com/x1tedbtw/TSP_GA.git
-
+```
 2. Navigate to the project directory:
 ```bash
 cd TSP_GA
-
+```
 3.Install dependencies:
 ```bash
 pip install numpy
-
+```
 ### Usage
 1. Run the TSP solver:
 ```bash
 python main.py
-
+```
