@@ -19,8 +19,8 @@ This project utilizes a Genetic Algorithm (GA) to solve the Travelling Salesman 
 
 ## Getting Started
 ### Prerequisites
-- Python (insert version)
-- NumPy library (insert version)
+- Python 3.0
+- NumPy library
 
 ### Installation
 1. Clone the repository:
